@@ -6,9 +6,13 @@ Welcome to the Quiz App! This is a fun and interactive way to test your knowledg
 
 ## Features
 **User Personalization:** Input your name to personalize the quiz experience.
+
 **Interactive Questions:** Answer multiple-choice questions covering various topics.
+
 **Score Tracking:** Your score is calculated and displayed at the end of the quiz.
+
 **Feedback:** Immediate feedback is given for each answer, indicating whether it is correct or incorrect.
+
 **Retry Option:** After completing the quiz, you can choose to take the quiz again to improve your score.
 
 
