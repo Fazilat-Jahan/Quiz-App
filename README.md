@@ -16,7 +16,9 @@ Welcome to the Quiz App! This is a fun and interactive way to test your knowledg
 **Retry Option:** After completing the quiz, you can choose to take the quiz again to improve your score.
 
 
-**To use My Quiz App from the command line, simply run: npx quiz-app**
+
+**To use My Quiz App from the command line, simply run: npx testing-quiz-app**
+
 
 
 ## Connect with Me
