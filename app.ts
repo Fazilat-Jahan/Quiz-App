@@ -106,7 +106,7 @@ async function quiz() {
 
             }
             else {
-                await fastAnimate(chalk.bgRed.bold(`❌`, Question2.q2, `\n`))
+                await fastAnimate(chalk.bgRed.bold(`❌`, Question3.q3, `\n`))
                 await fastAnimate(chalk.bgGreen.bold(`✔️  (c) Python\n\n`));
 
             }
@@ -131,7 +131,7 @@ async function quiz() {
 
             }
             else {
-                await fastAnimate(chalk.bgRed.bold(`❌`, Question2.q2, `\n`))
+                await fastAnimate(chalk.bgRed.bold(`❌`, Question4.q4, `\n`))
                 await fastAnimate(chalk.bgGreen.bold(`✔️  (d) Bernard Arnault\n\n`));
 
             }
@@ -156,7 +156,7 @@ async function quiz() {
 
             }
             else {
-                await fastAnimate(chalk.bgRed.bold(`❌`, Question2.q2, `\n`))
+                await fastAnimate(chalk.bgRed.bold(`❌`, Question5.q5, `\n`))
                 await fastAnimate(chalk.bgGreen.bold(`✔️  (b) Mining\n\n`));
 
             }

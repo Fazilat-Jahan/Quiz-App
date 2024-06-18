@@ -70,7 +70,7 @@ async function quiz() {
                 await fastAnimate(chalk.bgGreen.bold(`✔️  (c) Python\n\n`));
             }
             else {
-                await fastAnimate(chalk.bgRed.bold(`❌`, Question2.q2, `\n`));
+                await fastAnimate(chalk.bgRed.bold(`❌`, Question3.q3, `\n`));
                 await fastAnimate(chalk.bgGreen.bold(`✔️  (c) Python\n\n`));
             }
             let Question4 = await inquirer.prompt([
@@ -86,7 +86,7 @@ async function quiz() {
                 await fastAnimate(chalk.bgGreen.bold(`✔️  (d) Bernard Arnault\n\n`));
             }
             else {
-                await fastAnimate(chalk.bgRed.bold(`❌`, Question2.q2, `\n`));
+                await fastAnimate(chalk.bgRed.bold(`❌`, Question4.q4, `\n`));
                 await fastAnimate(chalk.bgGreen.bold(`✔️  (d) Bernard Arnault\n\n`));
             }
             let Question5 = await inquirer.prompt([
@@ -102,7 +102,7 @@ async function quiz() {
                 await fastAnimate(chalk.bgGreen.bold(`✔️  (b) Mining\n\n`));
             }
             else {
-                await fastAnimate(chalk.bgRed.bold(`❌`, Question2.q2, `\n`));
+                await fastAnimate(chalk.bgRed.bold(`❌`, Question5.q5, `\n`));
                 await fastAnimate(chalk.bgGreen.bold(`✔️  (b) Mining\n\n`));
             }
             if (quizApp.score == 20) {
